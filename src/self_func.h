@@ -1,7 +1,7 @@
 /*
-file:
-author: 
-date:
+file:self_dunc.h
+author:teamreach 
+date:2022.7.6
  */
 
 #ifndef _SELF_FUNC_H

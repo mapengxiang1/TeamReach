@@ -1,7 +1,7 @@
 /*
-file:
-author: 
-date:
+file:nb_conn.c
+author:teamreach
+date:2022.7.6
 Functions to send AT commands to NB-IoT module for getting connection with TCP server and  publishing thing module topics via MQTT protocol.
  */
 #include "bsp.h"

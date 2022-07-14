@@ -1,7 +1,7 @@
 /*
-file:
-author:
-date:
+file:main.c
+author:teamreach
+date:2022.7.6
  */
 
 #include <time.h>

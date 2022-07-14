@@ -1,7 +1,7 @@
 /*
-file:
-author: 
-date:
+file:new_gui.c
+author:teamreach
+date:2022.7.6
 部分函数从样例程序demo_gui.c文件中拷贝，原作者Bian
  */
 #include "bsp.h"

@@ -1,7 +1,7 @@
 /*
-file:
-author: 
-date:
+file:file_wr.c
+author:teamreach
+date:2022.7.6
  */
 #include "bsp.h"
 
